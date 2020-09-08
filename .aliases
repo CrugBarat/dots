@@ -33,6 +33,9 @@ alias yall="yarn prepack && yarn lint && yarn test"
 alias yl="yarn lint"
 alias yc="yarn clean"
 
+# git
+alias gs="git status"
+
 # npm
 alias npmb="npm run build"
 
